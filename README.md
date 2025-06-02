@@ -4,7 +4,7 @@
 
 All the content in this repository was written by a 18-19 years old teenager **without any formal training in physics, diving medicine, electronics and software engineering**!!
 
-Furthermore, all content is based on the state of the art of diving medicine around 1988!
+Furthermore, all content is based on the state of the art of diving/hyperbaric medicine around 1988!
 
 **DO NOT USE THE CODE IN THIS REPOSITORY TO BUILD ANYTHING YOU INTEND TO USE FOR ACTUAL DIVING!!!**
 

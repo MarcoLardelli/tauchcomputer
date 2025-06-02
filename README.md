@@ -2,7 +2,7 @@
 
 ## IMPORTANT: for educational purposes only!!
 
-All the content in this repository was written by a 18-19 years old teenager **without any formal training in physics, diving medicine and engineering**!!
+All the content in this repository was written by a 18-19 years old teenager **without any formal training in physics, diving medicine, electronics and software engineering**!!
 
 Furthermore, all content is based on the state of the art of diving medicine around 1988!
 

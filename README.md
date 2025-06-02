@@ -9,3 +9,5 @@ Furthermore, all content is based on the state of the art of diving medicine aro
 **DO NOT USE THE CODE IN THIS REPOSITORY TO BUILD ANYTHING YOU INTEND TO USE FOR ACTUAL DIVING!!!**
 
 Program files are written in GFA-Basic for the ATARI ST (they still run well in a simulator)
+
+![Diving Computer Project](images/diving_computer.jpg)

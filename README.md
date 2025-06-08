@@ -7,7 +7,7 @@ Furthermore, all content is based on the state of the art of diving/hyperbaric m
 
 ->
 
-**DO NOT (!) USE ANY CODE IN THIS REPOSITORY TO BUILD ANYTHING YOU INTEND TO USE FOR ACTUAL DIVING!!!**
+**DO NOT (!) USE ANY CODE/INFORMATION/FORMULA/DATA IN THIS REPOSITORY TO BUILD ANYTHING YOU INTEND TO USE FOR ACTUAL DIVING!!!**
 
 Program files are written in GFA-Basic for the ATARI ST (they still run well in a simulator)
 
